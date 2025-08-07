@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chess.js": "^1.4.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.17.0",
+    "react-chessboard": "^5.2.2",
+    "socket.io": "^4.8.1"
+  }
+}
